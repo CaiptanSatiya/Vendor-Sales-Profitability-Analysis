@@ -1,4 +1,4 @@
-# Vendor Sales & Profitability Analysis
+# 📊 Vendor Sales & Profitability Analysis
 
 **Project Type:** Data Analysis & Dashboarding  
 **Tools & Technologies:** Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, SQL, Excel  
@@ -92,4 +92,8 @@ This project analyzes vendor sales and inventory data to identify top and low-pe
 - Applied **confidence intervals and hypothesis testing** for business insights.  
 - Learned to **translate Python analysis into actionable dashboards** in Power BI.  
 - Enhanced ability to **make data-driven business recommendations**.
+
+--- 
+##  Dashboard Screenshots
+![Dashboard 1](https://github.com/CaiptanSatiya/Project-Images/blob/main/Screenshot%202026-02-01%20231515.png)  
 
