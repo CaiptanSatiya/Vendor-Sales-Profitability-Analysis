@@ -1,0 +1,8 @@
+2026-01-28 22:17:25,980 - INFO - Ingesting sales.csv in db
+2026-01-28 22:20:15,890 - INFO - Ingesting end_inventory.csv in db
+2026-01-28 22:20:16,830 - INFO - Ingesting purchase_prices.csv in db
+2026-01-28 22:20:20,290 - INFO - Ingesting purchases.csv in db
+2026-01-28 22:20:35,399 - INFO - Ingesting vendor_invoice.csv in db
+2026-01-28 22:20:35,573 - INFO - Ingesting begin_inventory.csv in db
+2026-01-28 22:20:36,397 - INFO - --------------Ingestion Complete------------
+2026-01-28 22:20:36,398 - INFO - Total Time Taken: 3.36 minutes
